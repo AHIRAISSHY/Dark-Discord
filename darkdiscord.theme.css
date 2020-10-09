@@ -1,10 +1,9 @@
 /**
- * @name Dark Theme
- * @version 0.0.1
- * @description Just a simple description of the content that may
- * end up being pretty long
- * 
- * @website http://twitter.com/BandagedBD
+ * @name Dark Theme / DarkCord
+ * @version WIP-0.0.1
+ * @description Discord but Darker
+ * @source https://github.com/KoalaBeans/Dark-Discord/blob/main/src/ddt.css
+ * @website https://github.com/KoalaBeans
  */
 
 @import url('https://raw.githack.com/KoalaBeans/Dark-Discord/main/src/ddt.css')
